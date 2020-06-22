@@ -57,7 +57,7 @@ Charge Interruption Alerts  Yes
 
 *OVMS currently supports 2011-2017 Nissan LEAF and Nissan e-NV200
 
-**Some HVAC Status Items have been only verified with 2013-2016 MY cars and will only work if the year is set in configuraiton. Also HVAC needs to be in ON position before powering down the vehicle for the metrics to work during pre-heat.
+**Some HVAC Status Items have been only verified with 2013-2016 MY cars and will only work if the year is set in configuration. Also HVAC needs to be in ON position before powering down the vehicle for the metrics to work during pre-heat.
 
 ----------------------
 Remote Climate Control
